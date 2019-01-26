@@ -1,2 +1,0 @@
-# JENO
-tutorial on js
